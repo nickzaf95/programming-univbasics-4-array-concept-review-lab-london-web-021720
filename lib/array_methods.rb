@@ -16,4 +16,7 @@ end
 
 def find_min_value(array)
   # Add your solution here
+  
+  res = array.sort[0]
+  res
 end
